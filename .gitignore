@@ -1,0 +1,14 @@
+build
+.vscode
+.*.swp
+.gradle
+gradlew*
+.project
+.settings
+.classpath
+.directory
+gradle
+bin
+*.class
+.idea
+target
